@@ -1,6 +1,5 @@
-
        UPWARD CREATING PUBLIC LICENSE
-          Version 1, December 2024
+              Version 1, December 2024
 
 Copyup-to-you (C) 2024 Jing Dian Hsu
 
